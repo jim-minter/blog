@@ -1,0 +1,9 @@
+title: Jim Minter
+markdown: kramdown
+theme: jekyll-theme-cayman
+gems:
+- jekyll-feed
+exclude:
+- CNAME
+- Gemfile
+- Gemfile.lock
